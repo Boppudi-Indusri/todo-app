@@ -5,7 +5,7 @@ This project allows users to **add, edit, delete, and mark tasks as completed**.
 It follows the assignment requirements for components, props, state, event handling, and Git usage.
 
 ---
-
+Do npm install-->to download node modules
 ## 🚀 Features
 
 ✅ Add new tasks  
@@ -57,7 +57,7 @@ cd todo-app
 2️⃣ Install Dependencies
 bash
 Copy code
-npm install
+npm install to include node modules
 3️⃣ Start the Development Server
 bash
 Copy code
@@ -172,4 +172,4 @@ git push
 👩‍💻 Author
 Boppudi Indu Sri
 📧github link:
-🔗 https://github.com/Boppudi-Indusri/
+🔗 https://github.com/Boppudi-Indusri/todo-app
